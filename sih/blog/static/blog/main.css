@@ -2,6 +2,7 @@ body {
   background: #fafafa;
   color: #333333;
   margin-top: 5rem;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 h1,
@@ -18,15 +19,15 @@ ul {
 }
 
 .bg-steel {
-  background-color: #5f788a;
+  background-color: #a1c7e2;
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #cbd5db;
+  color: #2f2f2f;
 }
 
 .site-header .navbar-nav .nav-link:hover {
-  color: #ffffff;
+  color: #2f2f2f;
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -35,7 +36,7 @@ ul {
 
 .content-section {
   background: #ffffff;
-  padding: 10px 20px;
+  padding: 10px 25px;
   border: 1px solid #dddddd;
   border-radius: 3px;
   margin-bottom: 20px;
@@ -85,5 +86,5 @@ a.article-title:hover {
 }
 
 .account-heading {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
